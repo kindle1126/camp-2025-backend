@@ -1,5 +1,5 @@
 [project]
-name = "SITCON-Camp-Sample-Backend"
+name = "sitcon-camp-sample-backend"  # 改为小写，确保与 uv 期望一致
 version = "0.1.0"
 description = "This is a sample backend for SITCON Camp 2025 deploy."
 readme = "README.md"
