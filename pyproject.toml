@@ -1,5 +1,5 @@
 [project]
-name = "sitcon-camp-sample-backend"
+name = "SITCON-Camp-Sample-Backend"
 version = "0.1.0"
 description = "This is a sample backend for SITCON Camp 2025 deploy."
 readme = "README.md"
